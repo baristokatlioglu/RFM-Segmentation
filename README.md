@@ -5,7 +5,7 @@
 
 ![RFM](https://user-images.githubusercontent.com/49685592/150136762-2be3fcce-d917-4803-9574-eaad4f0463ba.png)
 
-### Bussiness Problem :
+### Business Problem :
 An e-commerce company segments its customers and determine marketing strategies according to segments wants. Customer segments with common behaviors Income increase by doing marketing studies in particular thinks it will.
 For example, the company wants to organize different campaigns in order to retain customers, which are very profitable for the company, and different campaigns for new customers.
 
